@@ -2,7 +2,7 @@
 
 # Where To Add Your Code
 
-<b>functions.php</b>
+<b>Add below code into functions.php file</b>
 
     add_action( 'vc_before_init', 'vc_before_init_actions' );
     function vc_before_init_actions() {
