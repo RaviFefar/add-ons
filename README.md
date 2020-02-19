@@ -9,4 +9,4 @@ function vc_before_init_actions() {
   require_once( get_stylesheet_directory().'/vc_templates/vc_hover_boxs.php' );
 }
 
-# theme inside create folder name "vc_templates" and paste all file
+Theme inside create folder name "vc_templates" and paste all file
