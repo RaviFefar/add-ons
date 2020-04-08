@@ -12,4 +12,5 @@ function vc_before_init_actions() {
 </pre>
 ### Create folder "vc_templates" inside theme and paste all the files.
 
-### Also read https://devnote.in/create-a-wpbakery-visual-composer-add-on
+### Also read : https://devnote.in/create-a-wpbakery-visual-composer-add-on
+#### youtube : https://youtu.be/lnsGuTFJeWo
